@@ -1,0 +1,337 @@
+@media (max-width:  1440px) {
+    .container{
+        width: 90%;
+    }
+    .hero-title {
+        height: 220px;
+        width: 473px
+    }
+    .shop-title{
+        margin-top: 415px;
+        margin-left: 629px;
+    }
+    .product-title button{
+        margin-left: 584px;
+    }
+    .navigating-nav img {
+        margin: 0 38px;
+    }
+    .footer img {
+        margin-left: 403px;
+        padding: 15px;
+    }
+    .footer-door {
+        margin-left: 1012px;
+        margin-bottom: 32px;
+        margin-top: -60px;
+        width: 211px;
+}
+@media (max-width: 1200px) {
+    .setting-nav p{
+        width: 267px;
+    }
+    .setting-title h3{
+        width: 1105px;
+    }
+    .setting-title h1{
+        width: 1078px ;
+    }
+    .setting-title p{
+        width: 1157px;
+    }
+    .family-title h3{
+        width: 1149px;
+    }
+    .family-title h1{
+        width: 1200px;
+    }
+    .family-title p{
+        width: 1217px;
+    }
+    .family-block{
+        padding: 50px 23px;
+    }
+    .family-def {
+        margin-left: 185px;
+    }
+    .shop-title {
+        margin-top: 318px;
+        margin-left: 415px
+    }
+    .product-title button {
+        margin-left: 471px;
+    }
+    .navigating-nav img {
+        margin: 0 -15px;
+    }
+    .footer-door {
+        margin-left: 802px;
+    }
+    .navigating-nav p{
+        margin-left: -30px;
+    }
+    .navigating-fon p{
+        margin-left: 554px;
+    }
+    .navigating-fon h3{
+        margin-left: 977px;
+    }
+    .navigating-fon h4{
+        margin-left: 620px;
+    }
+    .navigating-fon h5{
+        margin-left: 622px;
+    }
+    .navigating-fon img {
+        margin-left: 558px;
+    }
+    .navigating-block h4{
+        margin-left: 48px;
+    }
+    .navigating-block h5{
+        margin-left: 42px;
+    }
+    .navigating-block h3{
+        margin-left: 380px;
+    }
+    .top a {
+        margin-left: 477px;
+    }
+}
+}
+@media (max-width: 1024px) {
+    .about{
+        width: 1000px;
+    }
+    .shop-title {
+        margin-top: 322px;
+        margin-left: 225px;
+    }
+    .product-title button {
+        margin-left: 390px;
+    }
+    .navigating-nav img {
+        margin: 0 -55px;
+    }
+    .navigating-nav p {
+        margin-left: -57px;
+    }
+    .navigating-block h4 {
+        margin-left: 6px;
+    }
+    .navigating-block h5 {
+        margin-left: 0;
+    }
+    .navigating-block h3 {
+        margin-left: 274px;
+    }
+    .navigating-fon p {
+        margin-left: 434px;
+    }
+    .navigating-fon img {
+        margin-left: 436px;
+    }
+    .navigating-fon h4 {
+        margin-left: 497px;
+    }
+    .navigating-fon h5 {
+        margin-left: 501px;
+    }
+    .navigating-fon h3 {
+        margin-left: 816px;
+    }
+    .footer-door {
+        margin-left: 624px;
+    }
+    .footer-nav {
+        margin-left: -86px;
+    }
+    .footer-outdoor h3{
+        margin-left: -86px;
+    }
+    .shop-title {
+        margin-top: 655px;
+    }
+}
+@media (max-width: 992px) {
+    .navigating-nav img {
+        margin: -5px -62px;
+    }
+    .navigating-block h3 {
+        margin-left: 247px;
+    }
+    .navigating-fon p {
+        margin-left: 397px;
+    }
+    .navigating-fon img {
+        margin-left: 401px;
+    }
+    .navigating-fon h4 {
+        margin-left: 464px;
+    }
+    .navigating-fon h5 {
+        margin-left: 470px;
+        margin-top: 9px;
+    }
+    .navigating-fon h3 {
+        margin-left: 770px;
+    }
+    .top a {
+        margin-left: 354px;
+    }
+    .magazine {
+        width: 971px;
+    }
+    .footer-blocks h2 {
+        margin-top: 19px;
+    }
+    .footer-door {
+        margin-left: 595px;
+    }
+    .product-title button {
+        margin-left: 377px;
+    }
+}
+@media (max-width: 768px) {
+    .footer-blocks h4 {
+        margin: 13px;
+    }
+    .navigating-nav img {
+        margin: -2px -65px;
+    }
+    .navigating-fon h3 {
+        margin-left: 755px;
+    }
+}
+@media (max-width: 576px) {
+    .footer-door {
+        margin-left: 649px;
+    }
+    .navigating-nav img {
+        margin: -2px -66px;
+    }
+    .navigating-nav p {
+        margin-left: -61px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 451px) {
+    .product-title p {
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .navigating-nav img {
+        margin: -19px -66px;
+    }
+    .navigating-nav p {
+        font-size: 10px;
+    }
+    .footer img {
+        margin-left: 186px;
+    }
+    .footer-outdoor h3 {
+        font-size: 9px;
+    }
+}
+@media (max-width: 400px) {
+    .about {
+        width: 1101px;
+    }
+    .family-block {
+        padding: 27px 13px;
+    }
+    .family-block h1 {
+        margin-top: -461px;
+    }
+    .shop-title {
+        margin-top: 847px;
+    }
+    .product-title p {
+        font-size: 12px;
+    }
+    .navigating-nav img {
+        margin: -8px -66px;
+    }
+    .footer-nav {
+        margin-right: -157px;
+    }
+    .footer-outdoor h3 {
+        font-size: 8px;
+    }
+}
+@media (max-width: 376px) {
+    hero-title {
+        padding-top: 1346px;
+    }
+    .about {
+        width: 1103px;
+    }
+    family-block {
+        padding: 0px 9px;
+    }
+    family-block h1 {
+        margin-top: -466px;
+    }
+    shop-title {
+        margin-top: 1768px;
+    }
+    .product-title p {
+        font-size: 10px;
+    }
+    .navigating-nav img {
+        margin: -5px -67px;
+    }
+    .navigating-nav p {
+        font-size: 10px;
+    }
+    .footer-nav {
+        margin-right: -252px;
+        margin-left: -87px;
+    }.footer-dop input{
+             width: 346px;
+         }
+    .footer-outdoor h3 {
+        font-size: 8px;
+    }
+}
+@media (max-width: 320px) {
+    .hero-title {
+        padding-top: 1745px;
+    }
+    .about {
+        width: 1569px;
+    }
+    about-title a {
+        margin-right: 671px;
+    }
+    .family-block {
+        padding: -11px;
+    }
+    .shop-title {
+        margin-top: 2093px;
+    }
+    .product-title p {
+        font-size: 9px;
+    }
+    .navigating-nav img {
+        margin: -5px -67px;
+    }
+    .navigating-nav p {
+        margin-left: -57px;
+        font-size: 9px;
+    }
+    .navigating-fon p {
+        margin-left: 397px;
+        font-size: 12px;
+    }
+    .footer-nav {
+        margin-left: -79px;
+        margin-right: -131px;
+    }
+    .footer-dop input {
+        width: 343px;
+    }
+    .footer-outdoor h3 {
+        font-size: 6px;
+    }
+}
